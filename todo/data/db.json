@@ -34,18 +34,18 @@
       "id": 0.08275902399181279,
       "title": "Estudar alura",
       "time": "5",
-      "done": false
-    },
-    {
-      "id": 0.3981312661000418,
-      "title": "Enviar email coordenadora",
-      "time": "0",
-      "done": false
+      "done": true
     },
     {
       "id": 0.7726432907782976,
       "title": "Como usar o Git no Visual Studio Code",
       "time": "6",
+      "done": true
+    },
+    {
+      "id": 0.2665281945765601,
+      "title": "Comprar um novo computador",
+      "time": "2",
       "done": true
     }
   ]

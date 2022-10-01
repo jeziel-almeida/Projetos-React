@@ -5,7 +5,7 @@ import {useState, useEffect} from 'react';
 import {BsTrash, BsBookmarkCheck, BsBookmarkCheckFill} from 'react-icons/bs';
 
 //* Url da api do json server
-const API = "https://5000-jezielalmei-dotnetexemp-strnan0wuj3.ws-us67.gitpod.io";
+const API = "https://5000-jezielalmei-dotnetexemp-strnan0wuj3.ws-us69.gitpod.io";
 // const API = "http://localhost:5000"
 
 function App() {
