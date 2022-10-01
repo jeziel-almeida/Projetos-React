@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "id": 0.9366211826008939,
+      "title": "Lavar louça",
+      "time": "1",
+      "done": false
+    },
+    {
+      "id": 0.3021534082224038,
+      "title": "Lavar casa",
+      "time": "3",
+      "done": true
+    },
+    {
+      "id": 0.7725134942695238,
+      "title": "Arrumar a cama",
+      "time": "1",
+      "done": false
+    },
+    {
+      "id": 0.5617651582393028,
+      "title": "Fazer uma faxina geral na casa",
+      "time": "1",
+      "done": true
+    },
+    {
+      "id": 0.7339095962361346,
+      "title": "Baixar certificados",
+      "time": "0",
+      "done": false
+    },
+    {
+      "id": 0.08275902399181279,
+      "title": "Estudar alura",
+      "time": "5",
+      "done": false
+    },
+    {
+      "id": 0.3981312661000418,
+      "title": "Enviar email coordenadora",
+      "time": "0",
+      "done": false
+    },
+    {
+      "id": 0.7726432907782976,
+      "title": "Como usar o Git no Visual Studio Code",
+      "time": "6",
+      "done": true
+    }
+  ]
+}
