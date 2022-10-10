@@ -2,6 +2,8 @@
 
 Projeto que utiliza uma API de filmes.
 
+![movies_lib screenshot](./public/movies_lib.png)
+
 ## Comandos utilizados nesse projeto
 
 ### `npm create vite@latest`

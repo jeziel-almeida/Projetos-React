@@ -2,6 +2,8 @@
 
 Portfólio pessoal feito com React + SASS. 
 
+![portfolio screenshot](./public/portfolio.png)
+
 ## Comandos utilizados nesse projeto
 
 ### `npm create vite@latest`
@@ -26,8 +28,6 @@ Portfólio pessoal feito com React + SASS.
 * Comando utilizado para rodar a aplicação no localhost.
 
 ## Extensões utilizadas
-
-<hr>
 
 > Sass - syler
 
