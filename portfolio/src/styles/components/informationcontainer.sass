@@ -43,5 +43,12 @@
         #pin-icon
             color: #c17ceb
 
+@media (max-width: 480px)
+    .info-card
+        @include mixins.center
+        flex-direction: column
 
+        div
+            @include mixins.center
+            flex-direction: column
     
